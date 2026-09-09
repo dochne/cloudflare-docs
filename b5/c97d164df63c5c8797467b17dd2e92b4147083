@@ -1,0 +1,27 @@
+src/content/docs/images/storage/upload-images/import-from-s3/edit.mdx
+  s_6ce6a6665893f9::t_5f8d2d07de9d81 4,11,13,15,17,19,21,23-26,32-34,36,38-40,42
+src/content/dash-routes/core-manually-defined.json
+  s_6ce6a6665893f9::t_8736113c7215ce 52-56
+src/content/docs/images/storage/upload-images/import-from-s3/enable.mdx
+  s_6ce6a6665893f9::t_1f49b1bd78d93e 3-4,11,13,15,17,19,21,23,25-29,31,33,35,37,39,41-46,48,50,52,54-55,59
+public/__redirects
+  s_6ce6a6665893f9::t_add2ca4235fe7c 1134-1137,1197-1204
+src/content/docs/images/storage/upload-images/import-from-s3/credentials.mdx
+  s_6ce6a6665893f9::t_7dae8329281d05 4,11,13-15,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b5c97d164df63c5c8797467b17dd2e92b4147083",
+  "prompts": {},
+  "sessions": {
+    "s_6ce6a6665893f9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f7a2cfecbffeFr2aFQlYuP7riw",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Doug Nelson <dougnelson@cloudflare.com>"
+    }
+  }
+}
